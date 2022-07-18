@@ -1,1 +1,85 @@
 /* Write your CSS here! */
+body{
+    margin: 8px;
+    display: block;
+    font-family: cursive;
+}
+
+#mainHeading{
+    color: red;
+    text-align: center;
+}
+
+#testP{
+    color: green;
+    background-color: black;
+    opacity: 0.6;
+}
+
+.funParagraph{
+    color: darkblue;
+    background-color: lime;
+}
+
+h2{
+    font-family:fantasy;
+    color: darkblue;
+}
+
+article{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.thesePics{
+    display: inline-block;
+}
+
+.tallPics{
+    height: 340px;
+    width: 250px;
+    padding: 10px;
+}
+
+.tallerPics{
+    height:375px;
+    width:250px;
+    padding: 10px;
+}
+
+header{
+    text-align: center;
+    font-style: italic;
+    color: purple;
+}
+
+footer{
+    text-align: center;
+}
+
+.pics{
+    height: 320px;
+    width: 400px;
+    padding: 10px;
+}
+
+#widerPics{
+    height: 320px;
+    width: 450px;
+    padding: 10px;
+}
+
+#spinner{
+    width: 500px;
+    height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ol{
+    list-style-type: upper-roman;
+    text-align: center;
+    list-style-position: inside;
+    color: cornflowerblue;
+}
