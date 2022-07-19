@@ -11,14 +11,14 @@ body{
 }
 
 #testP{
-    color: green;
-    background-color: black;
-    opacity: 0.6;
+    color: darkblue;
+    background-color: limegreen;
 }
 
 .funParagraph{
-    color: darkblue;
-    background-color: lime;
+    color: green;
+    background-color:black;
+    opacity: 0.6
 }
 
 h2{
